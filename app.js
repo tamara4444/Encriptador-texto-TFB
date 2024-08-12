@@ -5,9 +5,9 @@ const solucion = document.querySelector(".codificar");
 const contenedor = document.querySelector(".contenedor-resolucion");
 const botonCopiar = document.querySelector(".boton-copiar");
 const botonDesencriptar = document.querySelector(".boton_desencriptar");
-const sonidoEncriptar = new Audio('/snd/cat-1.mp3');
-const sonidoDesencriptar = new Audio('/snd/cat-2.mp3');
-const sonidoCopiar = new Audio('/snd/cat-3.mp3');
+const sonidoEncriptar = new Audio('./snd/cat-1.mp3');
+const sonidoDesencriptar = new Audio('./snd/cat-2.mp3');
+const sonidoCopiar = new Audio('./snd/cat-3.mp3');
 
 
 botonEncriptar.addEventListener("click", e=>{
