@@ -22,3 +22,8 @@ La letra "u" es convertida para "ufat"
 
 <strong> *Lo anterior es parte de un reto perteneciente al curso Alura latam en conjunto con Oracle next education (ONE).</strong>
 
+
+## 🚀 Deploy
+
+La aplicación está disponible en el siguiente enlace:  
+[Encriptador - Ver](https://tamara4444.github.io/Encriptador-texto-TFB/)
